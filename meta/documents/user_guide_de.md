@@ -17,4 +17,4 @@ Im Blog-Header angezeigtes Standardbild | Bilddatei auswählen, welche im Blog-H
 "Weiterlesen" Button für gelistete Beiträge anzeigen | Checkbox aktivieren, um den "Weiterlesen"-Button für Blog-Beiträge in der Blog-Übersicht anzuzeigen.
 
 ## Blog-Einstiegsseite im Assistenten einrichten
-Durchlaufe den Blog-Assistenten, um einige grundlegende Einstellungen zu deinem Blog vorzunehmen. Unter anderem legst du hier den URL-Teil fest, der dauerhaft zu deinem Blog führt, wie die Verlinkung zwischen Blog und Shop lauten soll und wichtige SEO-Einstellung zur Seite selbst, wie H1, Metadaten und robots. Du findest ihn im Menü **System » Assistenten**.
+Durchlaufe den Blog-Assistenten, um einige grundlegende Einstellungen zu deinem Blog vorzunehmen. Unter anderem legst du hier den URL-Teil fest, der dauerhaft zu deinem Blog führt, wie die Verlinkung zwischen Blog und Shop lauten soll und wichtige SEO-Einstellung zur Seite selbst, wie Titel, Metadaten und robots. Du findest ihn im Menü **System » Assistenten**.
