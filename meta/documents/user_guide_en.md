@@ -17,4 +17,4 @@ Default image to display in the blog header | Select the image file which is dis
 Display a "Read more" button on listed articles | Activate checkbox to display a "Read more" button for articles in the blog overview.
 
 ## Setting up the blog landing page in the assistant
-Go to **System » Assistants** and complete the Blog Assistant to make some basic settings for your blog. Here you decide the URL that should link to your blog in general, what the link between shop and blog looks like and a few important SEO settings for the blog landingpage such as H1, meta data and robots.
+Go to **System » Assistants** and complete the Blog Assistant to make some basic settings for your blog. Here you decide the URL that should link to your blog in general, what the link between shop and blog looks like and a few important SEO settings for the blog landingpage such as title, meta data and robots.
